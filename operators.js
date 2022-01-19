@@ -1,3 +1,10 @@
+// variables
+  var name ="Mailu1";
+  var age = 21;
+  var career = "fullstack dev"
+
+  document.write("Age:" + age);
+
 //   arithmetic operators
         
   var num1 = 40, num2 = 10;
