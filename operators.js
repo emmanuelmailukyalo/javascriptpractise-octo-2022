@@ -5,6 +5,7 @@
 
   document.write("Age:" + age);
 
+// operators
 //   arithmetic operators
         
   var num1 = 40, num2 = 10;
