@@ -29,6 +29,23 @@
   string += "mailu";
   console.log(string);
 
+// comparison operators
+    // == equals to
+    // != not equals to
+    // > greater than
+    // >= greater than or equals to
+    // < lesser than
+    // <= lesser than or equals to
+            
+    var num5 = 100
+    document.write(num5 ==10); //false
+    document.write("<br/>")
+    document.write(num5 != 10); //true
+    document.write("<br/>")
+    document.write(num5 > 10); // true
+    document.write("<br/>")
+    document.write(num5 >= 10); //true
+    document.write("<br/>")
 
 
 // ARRAYS
