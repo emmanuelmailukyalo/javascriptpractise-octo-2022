@@ -60,4 +60,12 @@ var arr = new Array(5);
         {
         document.write(arr[i] + "<br/>");
         }
+
+// for loop
+var x;
+for(x=1; x<=10; x++)
+{
+  document.write("x=" + 1);
+  document.write("<br/>");
+}
       
